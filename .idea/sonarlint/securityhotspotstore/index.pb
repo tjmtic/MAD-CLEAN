@@ -27,3 +27,11 @@ C
 domain/build.gradle,a/3/a3021bb5ba623a461b5fdb89ae51923a4945c354
 å
 \domain/src/androidTest/java/com/abyxcz/disneycodechallenge/domain/ExampleInstrumentedTest.kt,1/3/131b0b7041cdb72ffcd99da7851177cf05d2193f
+ó
+gapp/src/main/java/com/abyxcz/disneycodechallenge/example/presentation/screen/conflict/ConflictTopBar.kt,7/c/7c82329a98615bc14d9157782ee96ae2ec98a8cb
+í
+bapp/src/main/java/com/abyxcz/disneycodechallenge/example/presentation/screen/home/HomeBottomBar.kt,c/d/cd2b2022b36f862941529643d89c8a3d8aea4ebe
+ç
+]app/src/main/java/com/abyxcz/disneycodechallenge/example/presentation/screen/home/UserList.kt,1/b/1b38d1b43fb2f7b464098acca3bcc10e9a0f25da
+N
+app/debug/output-metadata.json,6/d/6d0d047f57b3ed56db47b6d89a6ec6080e4cb494
