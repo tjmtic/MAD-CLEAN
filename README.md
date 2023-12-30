@@ -1,5 +1,4 @@
-Android Example - User Selection List - August 2022
-
+User Selection List Example - August 2022
 
 -Clean Application Architecture
 -MVVM Presentation Architecture
